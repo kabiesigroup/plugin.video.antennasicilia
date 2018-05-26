@@ -8,7 +8,7 @@ xbmcplugin.setContent(addon_handle, 'Live TV')
 
 url='http://185.105.4.188:1935/ltv/myStream/playlist.m3u8'
 
-li = xbmcgui.ListItem('Live TV', iconImage='icon.pgn')
+li = xbmcgui.ListItem('KabiesiTV Live', iconImage='icon.png')
 
 xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
