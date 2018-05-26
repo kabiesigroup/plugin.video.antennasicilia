@@ -1,2 +1,2 @@
-# AntennaSiciliaKodiAddon
-Simple addon for kodi that allows live streaming to your kodi device
+# KabiesiTvKodiAddon
+Simple addon for kodi that allows watch KabiesiTv live signal on your kodi device
